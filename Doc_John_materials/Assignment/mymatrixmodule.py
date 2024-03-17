@@ -31,3 +31,8 @@ def matrixmultiplication(matrix1, matrix2):
       for k in range(len(matrix2)):
         result[i][j] += matrix1[i][k] * matrix2[k][j]
   return result
+
+
+
+
+
